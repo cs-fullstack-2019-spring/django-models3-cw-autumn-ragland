@@ -17,3 +17,5 @@ In Exercise 2 create another new endpoint to change the models of all entries wi
 
 
 I did number 1 and number 2 but I did not loop through the array to display all objects in the array
+<hr>
+2 points.
